@@ -1,4 +1,4 @@
-# Assignment 2a: Significant figures
+## Assignment 2a: Significant figures
 
 Write program code to:
 
